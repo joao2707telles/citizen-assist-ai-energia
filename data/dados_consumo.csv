@@ -1,0 +1,6 @@
+﻿item;potencia_w;horas_dia;dias_mes;observacao
+Notebook;65;5;30;Potência estimada para o estudo
+Lâmpada comum;60;5;30;Cenário atual estimado
+Ventilador;60;5;30;Potência estimada para o estudo
+Lâmpada LED;9;5;30;Alternativa de eficiência energética
+Painel solar;100;4.5;30;4,5 h de sol pico/dia e rendimento global estimado de 80%
