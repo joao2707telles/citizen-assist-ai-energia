@@ -140,6 +140,3 @@ Os valores de potência, tarifa, horas de uso, horas de sol pico e rendimento s�
 
 - Empresa de Pesquisa Energética - Energia solar fotovoltaica:
   https://www.epe.gov.br/pt/areas-de-atuacao/energia-eletrica/expansao-da-geracao/fontes
-
-## Limitações
-Este projeto apresenta uma análise simplificada. Para uma aplicação real, seria necessário utilizar a potência real dos equipamentos, a tarifa específica da unidade consumidora e dados solares específicos da localização.
